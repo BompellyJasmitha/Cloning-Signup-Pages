@@ -1,0 +1,110 @@
+*{    padding: 0;
+      margin: 0;
+}
+
+
+#npm_main_div{
+    height: 130vh;
+}
+
+img[alt="npm_img"]{
+    padding-left: 2600px;
+    width:500px
+}
+
+#npm_div{
+
+    padding: 200px;
+    height: 1900px;
+    border:1px solid gray ;
+    margin-left: 2000px;
+    width:1500px ;
+    /* background-color: white; */
+}
+
+#npm_h1{
+    font-size: 100px;
+}
+
+#npm_username{
+font-size: 70px;
+margin-top: 150px;
+}
+
+#npm_input{
+    font-size: 70px;
+    margin-top: 40px;
+    padding:40px 325px 40px 325px;
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+
+input:focus{
+    outline: 10px solid rgb(10, 72, 215);
+}
+
+#npm_email{
+    font-size: 70px;   
+}
+
+#npm_email_input{
+    font-size: 70px;
+    margin-top: 40px;
+    padding:40px 325px 40px 325px;
+    border-radius: 15px;
+
+}
+.npm_p{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    font-size: 50px;
+    color: gray;
+}
+
+#npm_pasword{
+    font-size: 70px;  
+}
+#npm_pasword_input{
+    font-size: 70px;
+    margin-top: 40px;
+    padding:40px 325px 40px 325px;
+    border-radius: 15px;
+}
+
+#npm_checkbox{
+    margin-top: 100px;
+    width: 50px;
+    height: 50px;
+    margin-right: 50px;
+    
+}
+#npm_last_para{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    font-size: 50px;
+    
+
+}
+.nmp_a{
+    color: rgb(68, 66, 66);
+
+}
+
+#npm_button{
+    font-size: 70px;
+    margin-top: 150px;
+    padding:40px 450px 40px 450px;
+    border-radius: 15px;
+}
+#npm_act{
+    margin-top: 150px;
+    margin-left: 2500px;
+    font-size:60px;
+    margin-bottom: 50px;
+}
+#sign_in{
+    
+    margin-left: 2700px;
+    font-size:60px;
+    color: rgb(19, 15, 15);
+}
